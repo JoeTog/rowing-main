@@ -21,6 +21,10 @@ export class Start extends Component {
         // 加载资源
     }
 
+    private hotFix(){
+        console.log('hotFix222');
+    }
+
     private async doLogin() {
         let getUrl = getUrlParam();
         let { u, p, i } = getUrl as { u: string, p: string, i: string };
