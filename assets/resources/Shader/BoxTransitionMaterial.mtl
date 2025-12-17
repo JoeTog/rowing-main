@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.Material",
+  "_name": "BoxTransitionMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "f3ba025d-01e8-480b-a7df-1c929b486023"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "subTexture": {
+          "__uuid__": "35f0b274-5e35-45f7-9f15-e73e3ced1711"
+        },
+        "screenSize": {
+          "__type__": "cc.Vec2",
+          "x": 750,
+          "y": 1334
+        },
+        "tranSize": 30
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rowing",
+  "uuid": "79fc8b3e-ecab-4eb8-89e4-c28ecb6ee334",
+  "creator": {
+    "version": "3.8.7"
+  },
+  "dependencies": {
+    "tsrpc-browser": "^3.4.18"
+  }
+}
