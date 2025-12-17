@@ -22,7 +22,7 @@ export class Start extends Component {
     }
 
     private hotFix(){
-        console.log('hotFix1111');
+        console.log('hotFix222');
     }
 
     private async doLogin() {
